@@ -3,7 +3,7 @@
   "version": "6.0.2",
   "description": "A very fast geospatial point clustering library.",
   "main": "dist/supercluster.js",
-  "module": "index.js",
+  "module": "dist/supercluster.js",
   "jsdelivr": "dist/supercluster.min.js",
   "unpkg": "dist/supercluster.min.js",
   "scripts": {
